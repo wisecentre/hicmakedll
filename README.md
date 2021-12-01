@@ -1,4 +1,4 @@
-# hicmakedll
+# hicmakedll or hicmakeso
 - clion cmake build；vs cmake build；linux cmake build
-- hicmakeso
 - build dll or so library
+- call dll/so test
